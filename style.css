@@ -1,0 +1,15 @@
+ 
+.multi-ring {
+    background: conic-gradient(
+        #FFD700 0% 12.5%,   /* Yellow */
+        #ADFF2F 12.5% 25%,  /* Green-Yellow */
+        #00A6ED 25% 37.5%,  /* Blue */
+        #1E90FF 37.5% 50%,  /* Deep Sky Blue */
+        #DC143C 50% 62.5%,  /* Crimson */
+        #FF69B4 62.5% 75%,  /* Hot Pink */
+        #FF4500 75% 87.5%,  /* Orange-Red */
+        #FF8C00 87.5% 100%  /* Dark Orange */
+    );
+    
+}
+ 
